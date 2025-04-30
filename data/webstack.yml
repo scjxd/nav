@@ -7,35 +7,7 @@
       logo: 
       url: https://dribbble.com/
       description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
-      url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
-      logo:
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
-      logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      url: https://medium.com/
-      description: 高质量设计文章
-    - title: 优设
-      logo:  
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
+
     - title: Producthunt
       url: https://www.producthunt.com/
       description: 发现新鲜有趣的产品
@@ -55,6 +27,25 @@
           logo: images/logos/cninfo_logo.png
           url: http://www.cninfo.com.cn/new/index
           description: 权威消息 - 巨潮资讯网-证监会指定上市公司信息披露网站
+        - title: 华尔街见闻
+          logo: images/logos/wallstreetcn.png
+          url:  http://wallstreetcn.com/
+          description: 华尔街见闻
+        - title: 雪球
+          logo: images/logos/xueqiu.png
+          url:  http://xueqiu.com/
+          description: 雪球
+    - term: 量化
+    - term：量化社区
+      links:
+        - title: 老虎
+          logo: images/logos/laofu.png
+          url:  http://www.laofu.com/
+          description: 量化投资社区
+        - title: 老鱼
+          logo: images/logos/quant.png
+          https://www.laoyulaoyu.com/
+          description: 老鱼量化
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
