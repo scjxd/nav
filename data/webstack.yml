@@ -35,7 +35,6 @@
           logo: images/logos/xueqiu.png
           url:  http://xueqiu.com/
           description: 雪球
-    - term: 量化
     - term：量化社区
       links:
         - title: 老虎
