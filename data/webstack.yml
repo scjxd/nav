@@ -35,7 +35,7 @@
           logo: images/logos/xueqiu.png
           url:  http://xueqiu.com/
           description: 雪球
-    - term：量化社区
+    - term: 量化社区
       links:
         - title: 老虎
           logo: images/logos/laofu.png
@@ -43,7 +43,7 @@
           description: 量化投资社区
         - title: 老鱼
           logo: images/logos/quant.png
-          https://www.laoyulaoyu.com/
+          url: https://www.laoyulaoyu.com/
           description: 老鱼量化
 
 - taxonomy: 社区咨询
